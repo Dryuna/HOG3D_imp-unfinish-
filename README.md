@@ -3,6 +3,8 @@ Hog3d code on Matlab
 
 An implement of hog3d[1]. If you found some thing wrong with the code, please send me a mail(streetyao@live.com)
 
+PS：Currently unfinished, find something error in the code, will fix it some time. 
+
 =========
 Reference
 =========
